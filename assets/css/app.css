@@ -1,0 +1,13 @@
+.action-buttons { 
+    display: flex; 
+    align-items: center; 
+    gap: 5px; 
+    flex-wrap: nowrap; 
+    white-space: nowrap; 
+} 
+.action-buttons .btn { 
+    flex-shrink: 0; 
+}
+ td.action-column { 
+    white-space: nowrap; min-width: 120px; 
+}
